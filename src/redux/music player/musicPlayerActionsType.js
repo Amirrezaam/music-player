@@ -1,0 +1,7 @@
+export default {
+    NEXT_SONG: "NEXT_SONG",
+    PREV_SONG: "PREV_SONG",
+    PLAY: "PLAY",
+    PLAY_PAUSE: "PLAY_PAUSE",
+    REPEAT_SONG: "REPEAT_SONG"
+}
